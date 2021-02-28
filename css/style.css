@@ -1,0 +1,43 @@
+.box {
+    width: 130px;
+    height: 130px;
+    margin: 3px;
+}
+.red {
+    background-color: red;
+}
+.circle {
+    background-color: rgb(194, 194, 194);
+    width: 80px;
+    height: 80px;
+    border-radius: 100px;
+    float: left;
+    margin-top:25px;
+    margin-left: 25px;
+    border: 1px solid black;    
+  
+}
+.blue {
+    background-color: blue;
+}
+.green {
+    background-color: green;
+}
+.yellow {
+    background-color: yellow;
+}
+.black {
+    background-color: black;
+}
+.orange {
+    background-color: orange;
+}
+.purple {
+    background-color: purple;
+}
+.gray {
+    background-color: gray;
+}
+.pink {
+    background-color: pink;
+}
